@@ -1,1 +1,1 @@
-FROM openjdk:17-jre
+FROM droit/jre17
