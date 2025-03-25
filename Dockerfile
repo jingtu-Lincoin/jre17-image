@@ -1,1 +1,1 @@
-FROM droit/jre17
+FROM bellsoft/liberica-openjdk-debian
